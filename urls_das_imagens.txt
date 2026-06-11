@@ -1,6 +1,3 @@
-Scritp para obter as urls: npx tsx scripts/generateUrls.ts
-
-
 Categoria: ABDOMINAIS
 - https://raw.githubusercontent.com/AlefLaniel/meus-gifs-treino/main/@downloads/abdominais-abdominal-alternado-com-bola.gif
 - https://raw.githubusercontent.com/AlefLaniel/meus-gifs-treino/main/@downloads/abdominais-abdominal-bicicleta.gif
