@@ -858,7 +858,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Sente-se no pulley, ajuste o suporte de coxas e segure a barra com pegada aberta (pronada).\n**EXECUÇÃO:** Puxe a barra em direção à parte superior do peito, mantendo o tronco levemente inclinado para trás. Retorne controladamente.\n**DICAS:** Pense em puxar com os cotovelos, não com as mãos. Evite puxar por trás da nuca para proteger os ombros.",
     gifUrl:
-      "https://www.mundoboaforma.com.br/wp-content/uploads/2020/12/costas-puxada-aberta-com-barra-no-pulley.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-puxada-aberta-na-polia-alta.gif?raw=true",
   },
   {
     category: "Costas",
@@ -869,7 +869,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Utilize uma barra reta ou curva. Segure com as palmas voltadas para o rosto (supinação) na largura dos ombros.\n**EXECUÇÃO:** Puxe a barra até o peito, mantendo os cotovelos próximos ao corpo. Estenda totalmente os braços na fase de retorno.\n**DICAS:** Esta pegada recruta intensamente o bíceps e a porção inferior das dorsais. Mantenha a postura ereta.",
     gifUrl:
-      "https://musculacaoectomorfo.wordpress.com/wp-content/uploads/2012/01/puxada-frente-fechada-pegada-supinada.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-puxada-fechada-supinada-na-polia.gif?raw=true",
   },
   {
     category: "Costas",
@@ -880,7 +880,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Utilize o pegador em triângulo. Sente-se e estabilize as pernas no suporte.\n**EXECUÇÃO:** Puxe o triângulo até a parte inferior do peito, aproximando as escápulas ao final do movimento. Retorne controladamente.\n**DICAS:** A pegada neutra é mais anatômica para punhos e ombros. Foco no desenvolvimento da espessura das costas.",
     gifUrl:
-      "https://www.mundoboaforma.com.br/wp-content/uploads/2020/12/costas-puxada-para-frente-no-pulley-com-triangulo.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-puxada-neutra-pegada-em-triangulo.gif?raw=true",
   },
   {
     category: "Costas",
@@ -891,7 +891,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Segure a barra fixa com as palmas para frente (pronada) e mãos além da largura dos ombros.\n**EXECUÇÃO:** Puxe o corpo para cima até o queixo ultrapassar a barra. Desça controlando o peso do corpo até a extensão total.\n**DICAS:** Exercício fundamental de peso corporal. Se necessário, utilize bandas elásticas ou a máquina Graviton para assistência.",
     gifUrl:
-      "https://www.mundoboaforma.com.br/wp-content/uploads/2020/12/costas-barra-fixa-pegada-aberta-palma-para-frente-chinup.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-barra-fixa-pronada.gif?raw=true",
   },
   {
     category: "Costas",
@@ -902,7 +902,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Segure a barra com as palmas para o rosto (supinada), mãos na largura dos ombros.\n**EXECUÇÃO:** Eleve o corpo até o queixo passar da linha da barra. Sinta a forte ativação de bíceps e dorsais.\n**DICAS:** Excelente para construir força base de puxada e melhorar o volume do bíceps braquial.",
     gifUrl:
-      "https://www.mundoboaforma.com.br/wp-content/uploads/2016/08/costas-barra-fixa-pegada-aberta-palma-para-tras-chinup.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-barra-fixa-supinada.gif?raw=true",
   },
   {
     category: "Costas",
@@ -913,7 +913,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Segure na barra com pegada neutra (palmas viradas uma para a outra).\n**EXECUÇÃO:** Puxe o corpo para cima focando na contração das costas e retorne devagar.\n**DICAS:** Variação muito segura para as articulações dos ombros e punhos.",
     gifUrl:
-      "https://media.tenor.com/94EQg4jD-P4AAAAC/pull-ups-stephen-farrelly.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-barra-fixa-neutra.gif?raw=true",
   },
   {
     category: "Costas",
@@ -924,7 +924,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Posicione uma barra no rack ou Smith na altura do quadril. Fique abaixo da barra segurando-a com pegada pronada.\n**EXECUÇÃO:** Puxe o peito em direção à barra, mantendo o corpo reto como uma prancha. Retorne controladamente.\n**DICAS:** Quanto mais baixo a barra estiver em relação ao solo, maior será a dificuldade do exercício.",
     gifUrl:
-      "https://www.hipertrofia.org/blog/wp-content/uploads/2023/07/inverted-row-on-bench.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-remada-invertida-australian-pullup.gif?raw=true",
   },
   {
     category: "Costas",
@@ -935,7 +935,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Segure a barra com pegada pronada. Incline o tronco (~45°) mantendo as costas retas e joelhos levemente flexionados.\n**EXECUÇÃO:** Puxe a barra em direção ao abdômen, mantendo os cotovelos próximos ao tronco. Retorne alongando as dorsais.\n**DICAS:** Mantenha a coluna neutra e evite balançar o tronco para 'subir' o peso.",
     gifUrl:
-      "https://www.hipertrofia.org/blog/wp-content/uploads/2024/06/barbell-pendlay-row.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-remada-curvada-com-barra.gif?raw=true",
   },
   {
     category: "Costas",
@@ -945,7 +945,7 @@ export const presetExercises: PresetExercise[] = [
     weight: 0,
     instructions:
       "**PREPARAÇÃO:** Similar à remada curvada, mas o tronco fica paralelo ao chão e a barra começa no solo em cada repetição.\n**EXECUÇÃO:** Puxe a barra de forma explosiva em direção ao peito inferior e retorne ao solo controladamente.\n**DICAS:** Exercício de potência pura para as costas. Não use o impulso das pernas ou tronco; o movimento deve ser estritamente de puxada.",
-    gifUrl: "https://s8.ezgif.com/tmp/ezgif-8135fcea05dbfa.gif",
+    gifUrl: "https://www.hipertrofia.org/blog/wp-content/uploads/2025/06/remada-pendlay.gif",
   },
   {
     category: "Costas",
@@ -1000,7 +1000,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Utilize uma barra no suporte Landmine. Incline o tronco sobre a barra, pés bem apoiados.\n**EXECUÇÃO:** Segure a extremidade da barra e realize a remada, focando no movimento do cotovelo para trás.\n**DICAS:** O ângulo de puxada único do landmine oferece um estímulo diferente para as dorsais e exige estabilidade do core.",
     gifUrl:
-      "https://cdn.shopify.com/s/files/1/0618/9462/3460/files/7a78c33be3fde48ecda98f3bb89cdf27_how_to_do_t_bar_rows_gif___Google_Search.gif?v=1742277122",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-remada-no-landmine.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1033,7 +1033,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Ajuste a máquina para que o apoio de peito fique confortável. Sente-se e segure as manoplas com pegada firme.\n**EXECUÇÃO:** Puxe as manoplas em direção ao corpo, mantendo o peito pressionado contra o suporte para estabilizar a coluna.\n**DICAS:** Excelente para isolar a musculatura das costas sem sobrecarregar a lombar. Foco na aproximação das escápulas.",
     gifUrl:
-      "https://treinomestre.com.br/wp-content/uploads/2024/03/remada-articulada-na-maquina-pequena-pronada.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-remada-com-apoio-no-peito.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1055,7 +1055,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Fique em pé na máquina articulada ou utilize a polia baixa com barra reta. Mantenha os joelhos levemente flexionados.\n**EXECUÇÃO:** Puxe as manoplas para cima rente ao corpo, elevando os cotovelos até a linha dos ombros.\n**DICAS:** Foca no trapézio médio/superior e deltoide lateral. Mantenha os punhos relaxados; quem puxa são os cotovelos.",
     gifUrl:
-      "https://treinototal.com.br/wp-content/uploads/2024/02/remada-alta-na-polia.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-remada-alta-na-maquina.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1066,7 +1066,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Prenda uma barra reta na polia alta. Incline o tronco ligeiramente para frente e mantenha os braços estendidos.\n**EXECUÇÃO:** Puxe a barra em um arco descendente até as coxas. Retorne controladamente até a linha dos ombros.\n**DICAS:** Exercício de isolamento que atinge a grande dorsal sem recrutar o bíceps. Mantenha o core contraído para estabilidade.",
     gifUrl:
-      "https://i.pinimg.com/originals/74/68/5a/74685a8a1b44b902c9d3ac1404844e88.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-puxada-com-braco-reto-straightarm-pulldown.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1077,7 +1077,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Deite-se no banco plano ou utilize a polia baixa com a corda/barra.\n**EXECUÇÃO:** Puxe a carga por cima da cabeça em um arco amplo até a linha do abdômen. Retorne sentindo o alongamento das dorsais.\n**DICAS:** Enfatiza o serrátil e a expansão da caixa torácica. Mantenha os cotovelos em um ângulo fixo durante o movimento.",
     gifUrl:
-      "https://www.hipertrofia.org/blog/wp-content/uploads/2018/10/pullover-na-polia-baixa.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-pull-over-na-polia.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1088,7 +1088,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Barra no solo sobre o meio dos pés. Agache mantendo as costas retas e segure a barra.\n**EXECUÇÃO:** Suba com a barra rente às pernas, estendendo joelhos e quadril simultaneamente. Termine em posição ereta.\n**DICAS:** Exercício composto fundamental. Mantenha o core firme e não permita que a coluna lombar arredonde.",
     gifUrl:
-      "https://www.mundoboaforma.com.br/wp-content/uploads/2020/12/pernas-e-costas-levantamento-terra-deadlift.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-levantamento-terra.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1110,7 +1110,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Pés bem afastados com pontas para fora. Segure a barra por dentro das pernas.\n**EXECUÇÃO:** Levante a barra mantendo o peito alto e os joelhos apontados para fora, alinhados aos pés.\n**DICAS:** Exige mais dos adutores e permite manter o tronco mais vertical do que a versão convencional.",
     gifUrl:
-      "https://www.hipertrofia.org/blog/wp-content/uploads/2023/03/barbell-sumo-deadlift.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-peso-morto-sumo.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1121,7 +1121,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Coloque a barra sobre o trapézio. Pés na largura do quadril e joelhos levemente flexionados.\n**EXECUÇÃO:** Incline o tronco para frente projetando o quadril para trás até as costas ficarem quase paralelas ao solo. Retorne à posição inicial.\n**DICAS:** Foco intenso nos paravertebrais e posteriores de coxa. Mantenha a coluna neutra e evite sobrecarga excessiva.",
     gifUrl:
-      "https://media.tenor.com/LxyViMeIa9YAAAAC/good-morning-work-out.gif",
+      "https://fitnessprogramer.com/wp-content/uploads/2023/10/Dumbbell-Good-Morning.gif",
   },
   {
     category: "Costas",
@@ -1132,7 +1132,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Apoie o quadril no suporte de hiperextensão.\n**EXECUÇÃO:** Desça o tronco de forma controlada e suba até que seu corpo forme uma linha reta. Não ultrapasse esse ponto.\n**DICAS:** Excelente para fortalecer os eretores da espinha e prevenir dores nas costas.",
     gifUrl:
-      "https://www.mundoboaforma.com.br/wp-content/uploads/2020/12/extensao-lombar-de-brucos.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-extensao-lombar-back-extension.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1143,7 +1143,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Sente-se na máquina de extensão lombar.\n**EXECUÇÃO:** Empurre o encosto para trás usando a força da região lombar. Retorne devagar.\n**DICAS:** Versão assistida e mais controlada para fortalecimento da coluna.",
     gifUrl:
-      "https://www.hipertrofia.org/blog/wp-content/uploads/2021/12/full-stretch-for-hyperextension.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-extensao-lombar-na-maquina.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1164,7 +1164,7 @@ export const presetExercises: PresetExercise[] = [
     weight: 0,
     instructions:
       "**PREPARAÇÃO:** Fique de quatro no chão (mãos e joelhos apoiados).\n**EXECUÇÃO:** Estenda o braço direito e a perna esquerda simultaneamente. Alterne os lados mantendo o equilíbrio.\n**DICAS:** Foca na estabilidade e coordenação do core e músculos das costas.",
-    gifUrl: "https://newlife.com.cy/wp-content/uploads/2019/11/12411301-Bird-Dog-male_Back_360-1.gif",
+    gifUrl: "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-birddog.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1175,7 +1175,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Deite-se de bruços no chão.\n**EXECUÇÃO:** Simule o movimento de nado de costas, elevando o tronco e alternando os braços para trás e para frente.\n**DICAS:** Ótimo para mobilidade de ombros e resistência dos eretores da coluna.",
     gifUrl:
-      "https://i.pinimg.com/originals/89/40/6c/89406c40596429c5cd6e288d8ab14be0.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-nado-de-costas.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1186,7 +1186,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Fique de quatro.\n**EXECUÇÃO:** Arqueie as costas para cima (gato) e depois flexione a coluna para baixo (vaca), olhando para cima.\n**DICAS:** Exercício de mobilidade e relaxamento da coluna vertebral.",
     gifUrl:
-      "https://www.mundoboaforma.com.br/wp-content/uploads/2021/09/alongamento-gato-e-camelo-4.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-mobilizacao-gato-vaca-catcow.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1197,7 +1197,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Na polia alta, use pegada aberta.\n**EXECUÇÃO:** Puxe a barra até o peito ao mesmo tempo que realiza um crunch abdominal leve, contraindo bem o core.\n**DICAS:** Integra o dorsal com o trabalho de abdominal e controle de tronco.",
     gifUrl:
-      "https://image.tuasaude.com/media/article/ia/nw/exercicio-para-ombro_73967.gif?width=686&height=487",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-puxada-ate-o-peito-lat-pullin.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1207,7 +1207,7 @@ export const presetExercises: PresetExercise[] = [
     weight: 0,
     instructions:
       "**PREPARAÇÃO:** Pendure-se na barra fixa com braços estendidos.\n**EXECUÇÃO:** Sem dobrar os cotovelos, eleve o corpo apenas movendo as escapulas para baixo e para trás. Desça.\n**DICAS:** Fundamental para aprender a ativar as costas antes de começar a puxar o bíceps.",
-    gifUrl: "https://gymvisual.com/img/p/5/4/2/1/5421.gif",
+    gifUrl: "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-ativacao-escapular-na-barra-scapular-pullup.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1217,7 +1217,7 @@ export const presetExercises: PresetExercise[] = [
     weight: 0,
     instructions:
       "**PREPARAÇÃO:** Segure nas alças do TRX, incline o corpo para trás.\n**EXECUÇÃO:** Puxe o corpo em direção às alças mantendo os cotovelos próximos. O grau de inclinação dita a dificuldade.\n**DICAS:** A instabilidade do TRX exige muito mais dos músculos estabilizadores do core e costas.",
-    gifUrl: "https://i.makeagif.com/media/10-11-2023/_zHwFU.gif",
+    gifUrl: "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-remada-no-trx.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1228,7 +1228,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Mesma base da remada TRX, mas usando argolas de ginástica.\n**EXECUÇÃO:** Puxe o corpo mantendo as argolas paralelas ou girando-as para pegada supinada no topo.\n**DICAS:** As argolas oferecem liberdade total de movimento para o punho, sendo muito confortáveis.",
     gifUrl:
-      "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2024/05/ring-rows.gif?fit=600%2C600&ssl=1",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-remada-com-argolas.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1239,7 +1239,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Segure uma banda elástica curta à sua frente com os braços esticados.\n**EXECUÇÃO:** Afaste os braços para os lados 'abrindo' a banda até que ela toque o peito. Retorne devagar.\n**DICAS:** Perfeito para postura e ativação de romboides e trapézio médio.",
     gifUrl:
-      "https://media.tenor.com/IrYw1RzccdoAAAAC/resistance-bands-workout.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-abertura-com-banda.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1250,7 +1250,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Use uma corda na polia alta. Segure com as palmas voltadas uma para a outra.\n**EXECUÇÃO:** Puxe a corda em direção ao seu rosto, abrindo as extremidades da corda conforme ela se aproxima da testa.\n**DICAS:** Essencial para saúde dos ombros e desenvolvimento do deltoide posterior e trapézio.",
     gifUrl:
-      "https://fitnessprogramer.com/wp-content/uploads/2021/02/Face-Pull.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-puxada-facial.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1261,7 +1261,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Use a máquina Peck-Deck de costas para o assento ou halteres inclinado.\n**EXECUÇÃO:** Abra os braços para trás focando na parte posterior do ombro e meio das costas.\n**DICAS:** Não use o impulso. Foque na contração muscular consciente.",
     gifUrl:
-      "https://www.hipertrofia.org/blog/wp-content/uploads/2018/03/lever-seated-reverse-fly-parallel-grip.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-crucifixo-invertido.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1271,7 +1271,7 @@ export const presetExercises: PresetExercise[] = [
     weight: 0,
     instructions:
       "**PREPARAÇÃO:** Segure um halter pesado em cada mão.\n**EXECUÇÃO:** Caminhe mantendo a postura perfeita, peito alto e ombros encaixados por um tempo ou distância definidos.\n**DICAS:** Constrói uma força de pegada colossal e estabilidade de tronco imbatível.",
-    gifUrl: "https://plantrifit.fr/wp-content/uploads/2024/05/Farmers-Walk.gif",
+    gifUrl: "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-caminhada-do-fazendeiro-farmers-carry.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1282,7 +1282,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Coloque a barra no rack em uma altura acima dos joelhos.\n**EXECUÇÃO:** Realize a puxada final do levantamento terra, focando no encaixe das escapulas no topo.\n**DICAS:** Permite usar cargas muito pesadas para focar na espessura total das costas.",
     gifUrl:
-      "https://www.inspireusafoundation.org/wp-content/uploads/2022/10/smith-machine-rack-pull.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-puxada-no-rack.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1293,7 +1293,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Use o sistema landmine. Fique de lado para a barra.\n**EXECUÇÃO:** Segure a ponta da barra e faça a remada com um braço de cada vez, mantendo a inclinação.\n**DICAS:** O ângulo lateral permite um alongamento excelente da grande dorsal.",
     gifUrl:
-      "https://media.tenor.com/B5YKf0VBKvsAAAAM/remada-unilateral-com-cabo.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/costas-remada-meadow-unilateral.gif?raw=true",
   },
   {
     category: "Costas",
@@ -1728,7 +1728,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Em pé, pés na largura dos ombros. Segure os halteres ou barra ao lado das coxas, palmas para frente.\n**EXECUÇÃO:** Flexione os cotovelos trazendo a carga em direção aos ombros. Retorne de forma lenta e controlada.\n**DICAS:** Mantenha os cotovelos fixos ao lado do corpo e o tronco imóvel. Evite o 'roubo' com as pernas ou costas.",
     gifUrl:
-      "https://www.hipertrofia.org/blog/wp-content/uploads/2023/09/dumbbell-biceps-curl.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/biceps-rosca-direta.gif?raw=true",
   },
   {
     category: "Bíceps",
@@ -1739,7 +1739,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Sente-se no banco Scott e apoie os braços totalmente no suporte acolchoado. Segure a barra EZ.\n**EXECUÇÃO:** Flexione os braços trazendo a barra em direção ao rosto. Desça até quase estender totalmente os braços.\n**DICAS:** O suporte isola o bíceps ao impedir o movimento dos ombros. Mantenha os punhos firmes e estáveis.",
     gifUrl:
-      "https://static.wixstatic.com/media/2edbed_0aac7c2b57cc4a65906159b7be921526~mv2.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/biceps-rosca-scott-rosca-scott.gif?raw=true",
   },
   {
     category: "Bíceps",
@@ -1750,7 +1750,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Segure os halteres ao lado do corpo com as palmas voltadas para as coxas (pegada neutra).\n**EXECUÇÃO:** Flexione os cotovelos mantendo a pegada neutra (polegares para cima) durante todo o movimento.\n**DICAS:** Excelente para desenvolver o braquial e o braquiorradial (antebraço), aumentando a espessura do braço.",
     gifUrl:
-      "https://i.pinimg.com/originals/60/6d/2a/606d2a9068de9614d2228852b53057d8.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/biceps-rosca-martelo.gif?raw=true",
   },
   {
     category: "Bíceps",
@@ -1761,7 +1761,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Halteres ao lado das coxas. Mantenha a postura ereta e abdômen contraído.\n**EXECUÇÃO:** Suba um braço de cada vez, girando a palma para cima (supinação) durante a subida. Alterne os lados.\n**DICAS:** A rotação permite recrutar a função de supinação do bíceps. Mantenha os cotovelos imóveis.",
     gifUrl:
-      "https://i0.wp.com/omelhortreino.com.br/wp-content/uploads/2025/06/Rosca-com-halteres-1.gif?resize=550%2C550&ssl=1",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/biceps-rosca-alternada.gif?raw=true",
   },
   {
     category: "Bíceps",
@@ -1772,7 +1772,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Sente-se no banco. Apoie o cotovelo na parte interna da coxa correspondente.\n**EXECUÇÃO:** Realize a flexão do braço focando na contração máxima do bíceps no topo. Retorne devagar.\n**DICAS:** Um dos melhores exercícios para construir o 'pico' do bíceps. Não use o tronco para puxar o peso.",
     gifUrl:
-      "https://www.deportrainer.com/img/cms/Post%20de%20blog/curl_de_biceps/ejercicio-curl-concentrado-de-b%C3%ADceps.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/biceps-rosca-concentrada.gif?raw=true",
   },
   {
     category: "Antebraço",
@@ -1783,7 +1783,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Segure a barra ou halteres com as palmas voltadas para baixo (pegada pronada).\n**EXECUÇÃO:** Realize a flexão dos braços mantendo a pegada invertida durante todo o percurso.\n**DICAS:** Enfatiza a musculatura do antebraço e a porção externa do bíceps. Mantenha os pulsos firmes.",
     gifUrl:
-      "https://i0.wp.com/omelhortreino.com.br/wp-content/uploads/2025/04/Rosca-Inversa.gif?resize=550%2C550&ssl=1",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/antebraco-rosca-inversa.gif?raw=true",
   },
   {
     category: "Bíceps",
@@ -1794,7 +1794,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Em pé, segure a barra com pegada supinada. Mantenha os ombros relaxados.\n**EXECUÇÃO:** Puxe a barra para cima rente ao tronco, projetando os cotovelos para trás. Sinta o 'esmagamento' do bíceps.\n**DICAS:** Ao manter a carga colada ao corpo, você remove a ação dos deltoides e foca no pico de contração.",
     gifUrl:
-      "https://www.hipertrofia.org/blog/wp-content/uploads/2019/04/rosca-arrastada.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/biceps-rosca-drag-arrastada.gif?raw=true",
   },
   {
     category: "Bíceps",
@@ -1804,7 +1804,7 @@ export const presetExercises: PresetExercise[] = [
     weight: 0,
     instructions:
       "**PREPARAÇÃO:** Comece como uma rosca martelo.\n**EXECUÇÃO:** Suba em pegada neutra ou supinada e, no topo, gire as palmas para baixo e desça em pegada pronada.\n**DICAS:** Um exercício completo que trabalha bíceps na subida e antebraço na descida (excêntrica).",
-    gifUrl: "Rosca Zottman",
+    gifUrl: "https://www.hipertrofia.org/blog/wp-content/uploads/2019/04/rosca-zottman.gif",
   },
 
   // Tríceps
@@ -1906,7 +1906,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Antebraços apoiados em um banco plano, palmas para cima, mãos segurando a barra ou halteres.\n**EXECUÇÃO:** Flexione apenas os punhos para cima e desça alongando totalmente os flexores.\n**DICAS:** Movimento curto e focado. Mantenha os cotovelos imóveis para garantir o isolamento.",
     gifUrl:
-      "https://www.hipertrofia.org/blog/wp-content/uploads/2018/10/barbell-wrist-curl.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/antebraco-rosca-de-punho.gif?raw=true",
   },
   {
     category: "Antebraço",
@@ -1917,7 +1917,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Mesma posição, mas com as palmas voltadas para baixo.\n**EXECUÇÃO:** Eleve os punhos para cima (extensão).\n**DICAS:** Essencial para equilíbrio muscular e saúde do punho/cotovelo.",
     gifUrl:
-      "https://www.hipertrofia.org/blog/wp-content/uploads/2024/10/barbell-revers-wrist-curl-v-2.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/antebraco-rosca-punho-inversa.gif?raw=true",
   },
   {
     category: "Antebraço",
@@ -1928,7 +1928,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Posição de prancha padrão sobre os antebraços.\n**EXECUÇÃO:** Mantenha a contração isométrica.\n**DICAS:** Além do core, exige resistência constante dos músculos dos antebraços para suporte.",
     gifUrl:
-      "https://www.mundoboaforma.com.br/wp-content/uploads/2022/09/prancha-com-rotacao-lateral-e-apoio-dos-antebracos.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/antebraco-prancha-de-antebraco.gif?raw=true",
   },
   {
     category: "Bíceps",
@@ -1939,7 +1939,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Segure a barra na polia baixa.\n**EXECUÇÃO:** Realize a rosca.\n**DICAS:** A tensão constante do cabo é excelente para a hipertrofia do bíceps.",
     gifUrl:
-      "https://www.hipertrofia.org/blog/wp-content/uploads/2023/05/cable-curl.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/biceps-curl-de-biceps-na-polia.gif?raw=true",
   },
   {
     category: "Tríceps",
@@ -1973,7 +1973,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Apoie-se nos antebraços e pontas dos pés. Mantenha o corpo perfeitamente alinhado, da cabeça aos calcanhares.\n**EXECUÇÃO:** Sustente a posição contraindo abdômen, glúteos e pernas. Respire de forma profunda e controlada.\n**DICAS:** Não permita que o quadril 'caia' ou suba demais. Imagine empurrar o chão com os antebraços para estabilizar os ombros.",
     gifUrl:
-      "https://i.pinimg.com/originals/f7/4c/37/f74c37422c0ca0c43d499f9da94a1a7f.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-prancha.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -1984,7 +1984,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Apoie-se em um antebraço lateralmente. Pés um sobre o outro ou um à frente do outro para maior equilíbrio.\n**EXECUÇÃO:** Eleve o quadril até o corpo formar uma linha reta lateral. Mantenha a contração do core.\n**DICAS:** Foca intensamente nos oblíquos e na estabilidade lateral da coluna. Mantenha o pescoço alinhado.",
     gifUrl:
-      "https://treinototal.com.br/wp-content/uploads/2025/01/prancha-lateral.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-prancha-lateral.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -1995,7 +1995,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Deitado de costas, joelhos flexionados e pés firmes no chão. Mãos levemente atrás das orelhas.\n**EXECUÇÃO:** Tire apenas as escápulas do solo, 'esmagando' o abdômen superior. Retorne controladamente.\n**DICAS:** Não puxe o pescoço com as mãos. O movimento deve ser curto e focado na contração muscular, não na altura.",
     gifUrl:
-      "https://grandeatleta.com.br/wp-content/uploads/2018/06/Reto-abdominal-crunch.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-crunch-abdominal-reto.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2006,7 +2006,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Deitado com joelhos flexionados ou pernas esticadas (mais difícil). Pés apoiados.\n**EXECUÇÃO:** Eleve o tronco totalmente até a posição sentada, contraindo o abdômen por completo.\n**DICAS:** Controle a descida para que cada vértebra toque o chão individualmente. Envolve fortemente os flexores do quadril.",
     gifUrl:
-      "https://i.pinimg.com/originals/69/05/97/6905970cc421d55f3120a399c2d1604b.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-abdominal-supra-situp.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2017,7 +2017,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Deitado de costas, braços ao lado do corpo ou mãos sob o quadril para estabilizar a lombar.\n**EXECUÇÃO:** Eleve as pernas esticadas até ~90° e desça lentamente sem encostar os calcanhares no solo.\n**DICAS:** Mantenha a coluna lombar pressionada contra o chão durante todo o movimento para evitar dores e focar no infra.",
     gifUrl:
-      "https://www.hipertrofia.org/blog/wp-content/uploads/2024/12/abdominal-infra-solo2.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-elevacao-de-pernas-abdominal-infra.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2028,7 +2028,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Deitado, mãos atrás da cabeça (sem puxar). Pernas elevadas com joelhos a 90°.\n**EXECUÇÃO:** Traga o joelho direito ao cotovelo esquerdo enquanto estica a perna esquerda, alternando ritmicamente.\n**DICAS:** Gire o tronco para garantir a ativação dos oblíquos. Imagine que está pedalando com os pés.",
     gifUrl:
-      "https://static.wixstatic.com/media/c94d75_f3fcf178a61f44af97420aa98577e0a8~mv2.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-abdominal-cruzado-bicicleta.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2039,7 +2039,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Deitado totalmente estendido. Braços acima da cabeça.\n**EXECUÇÃO:** Eleve o tronco e as pernas simultaneamente, encontrando-os no centro e formando um 'V'.\n**DICAS:** Requer alta coordenação e força explosiva. Controle a fase excêntrica (descida) para proteger a coluna.",
     gifUrl:
-      "https://i.pinimg.com/originals/3d/84/de/3d84de8a5b5d300b7f17ceeaa52d0163.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-abdominal-v.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2050,7 +2050,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Similar ao Abdominal V, mas com foco na flexão dos joelhos.\n**EXECUÇÃO:** Realize a flexão trazendo os joelhos ao peito enquanto o tronco sobe. Tente tocar os calcanhares.\n**DICAS:** Variação um pouco mais curta e focada na compressão abdominal total. Controle o retorno.",
     gifUrl:
-      "https://files.passeidireto.com/d26cc765-28b2-4ead-8b6e-c3eb0d531d8a/d26cc765-28b2-4ead-8b6e-c3eb0d531d8a.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-abdominal-canivete.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2061,7 +2061,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Deitado de costas, pernas elevadas a ~45 graus. Mãos sob o quadril para suporte.\n**EXECUÇÃO:** Cruze as pernas uma por cima da outra alternadamente em um movimento horizontal rápido e controlado.\n**DICAS:** Mantém a tensão constante no abdômen inferior. Não permita que a lombar descole do solo.",
     gifUrl:
-      "https://i.pinimg.com/originals/17/03/89/170389c8583380e05b284546ab5d0c62.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-abdominal-tesoura.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2072,7 +2072,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Deitado de costas com as mãos ao lado do corpo. Pernas estendidas em direção ao teto.\n**EXECUÇÃO:** Descole o quadril do solo usando a força do abdômen, empurrando os pés verticalmente. Retorne devagar.\n**DICAS:** Movimento curto e controlado. Evite balançar as pernas para ganhar impulso.",
     gifUrl:
-      "https://www.mundoboaforma.com.br/wp-content/uploads/2020/11/ponte-para-gluteos.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-elevacao-de-quadril-no-solo.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2083,7 +2083,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** De joelhos ou em pé, segure a corda da polia alta ao lado da cabeça.\n**EXECUÇÃO:** Realize a flexão do tronco em direção ao solo, 'enrolando' a coluna. Retorne controladamente.\n**DICAS:** Permite adicionar carga progressiva. Foque em flexionar a coluna, não apenas puxar com os braços.",
     gifUrl:
-      "https://www.treinoemalta.com.br/wp-content/uploads/2023/07/Abdominal-Supra-com-Corda-na-Polia-Alta.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-abdominal-na-polia.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2094,7 +2094,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Apoie os antebraços no suporte de paralelas, mantendo as costas firmes contra o encosto.\n**EXECUÇÃO:** Eleve os joelhos (ou pernas esticadas) em direção ao peito, contraindo o abdômen inferior.\n**DICAS:** Use a força do core para subir, evitando o balanço das pernas. Desça de forma controlada.",
     gifUrl:
-      "https://www.hipertrofia.org/blog/wp-content/uploads/2017/09/Abdominal-infra-nas-paralelas.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-abdominal-em-paralelas.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2104,7 +2104,7 @@ export const presetExercises: PresetExercise[] = [
     weight: 0,
     instructions:
       "**PREPARAÇÃO:** Deitado totalmente estendido no chão, braços atrás da cabeça.\n**EXECUÇÃO:** Flexione o tronco e as pernas simultaneamente, abraçando os joelhos no topo do movimento. Retorne esticando tudo.\n**DICAS:** Exercício funcional e dinâmico que trabalha toda a região abdominal de forma integrada.",
-    gifUrl: "https://media.tenor.com/a6e_-JLG3GEAAAAM/abdminal.gif",
+    gifUrl: "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-abdominal-remador.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2115,7 +2115,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Posição de prancha alta com as canelas apoiadas sobre a bola suíça.\n**EXECUÇÃO:** Traga os joelhos em direção ao peito rolando a bola para frente. Eleve o quadril no final.\n**DICAS:** Exige controle extremo de estabilidade. Mantenha o core contraído para não sobrecarregar os ombros.",
     gifUrl:
-      "https://treinototal.com.br/wp-content/uploads/2024/12/abdominal-crunch-na-bola-suica.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-abdominal-com-elevacao-de-quadril-na-bola.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2126,7 +2126,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Deitado de costas com braços estendidos acima da cabeça. Pés unidos.\n**EXECUÇÃO:** Suba o tronco vértebra por vértebra com controle total até sentar. Retorne 'desenrolando' a coluna.\n**DICAS:** Foco na articulação da coluna e controle do reto abdominal. Evite movimentos bruscos.",
     gifUrl:
-      "https://www.verywellfit.com/thmb/pHY1thh0e7me7Pwe9uhqnww3fX4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Verywell-02-2704611-RollUp-598a1854aad52b001006cf2d.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-enrolamento.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2136,7 +2136,7 @@ export const presetExercises: PresetExercise[] = [
     weight: 0,
     instructions:
       "**PREPARAÇÃO:** Deitado de costas com braços ao lado do corpo e pernas estendidas.\n**EXECUÇÃO:** Suba o tronco explosivamente enquanto traz um joelho ao peito e o braço oposto à frente, como em uma corrida. Alterne.\n**DICAS:** Exercício de alta intensidade que trabalha a coordenação e a potência do core.",
-    gifUrl: "https://gymvisual.com/img/p/1/8/4/1/9/18419.gif",
+    gifUrl: "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-sprinter-crunch.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2147,7 +2147,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Posição de prancha alta (sobre as mãos) ou baixa (antebraços).\n**EXECUÇÃO:** Traga o joelho lateralmente em direção ao cotovelo do mesmo lado. Alterne os lados.\n**DICAS:** Trabalha intensamente os oblíquos e a mobilidade de quadril. Mantenha o corpo alinhado.",
     gifUrl:
-      "https://flabfix.com/wp-content/uploads/2019/05/Forearm-Spiderman-Plank.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-spiderman-plank.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2157,7 +2157,7 @@ export const presetExercises: PresetExercise[] = [
     weight: 0,
     instructions:
       "**PREPARAÇÃO:** Deite-se de bruços.\n**EXECUÇÃO:** Eleve braços e pernas simultaneamente.\n**DICAS:** Fortalece toda a musculatura paravertebral e lombar.",
-    gifUrl: "https://i0.wp.com/omelhortreino.com.br/wp-content/uploads/2025/07/Superman.gif?resize=550%2C550&ssl=1",
+    gifUrl: "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-superman.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2168,7 +2168,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Posição de gatas.\n**EXECUÇÃO:** Estique braço e perna opostos.\n**DICAS:** Fundamental para estabilidade de core e equilíbrio.",
     gifUrl:
-      "https://fitnessprogramer.com/wp-content/uploads/2022/07/Bird-Dog.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-bird-dog.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2179,7 +2179,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Em pé, sentado ou de quatro. Expire todo o ar dos pulmões.\n**EXECUÇÃO:** Com os pulmões vazios, 'puxe' o umbigo para dentro e para cima, mantendo o vácuo o máximo possível.\n**DICAS:** Fortalece o transverso do abdômen, responsável pela estabilização profunda e proteção da coluna.",
     gifUrl:
-      "https://i.pinimg.com/originals/38/db/de/38dbde507dd0d7f7def5755ccb54b5d2.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-vacuo-abdominal.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2190,7 +2190,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Ajuste a máquina para que o apoio de peito/ombros esteja confortável. Segure as manoplas.\n**EXECUÇÃO:** Realize a flexão do tronco 'enrolando' o abdômen contra a resistência da máquina. Retorne devagar.\n**DICAS:** A trajetória guiada permite focar inteiramente na contração muscular sem compensações.",
     gifUrl:
-      "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/abdominal-em-V-na-maquina.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-abdominal-na-maquina.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2201,7 +2201,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Prenda os pés no suporte do banco declinado e deite-se.\n**EXECUÇÃO:** Realize o movimento de flexão do tronco (crunch) focando na contração da parte superior do abdômen.\n**DICAS:** A inclinação aumenta significativamente a carga gravitacional. Evite usar o impulso dos braços.",
     gifUrl:
-      "https://www.hipertrofia.org/blog/wp-content/uploads/2017/09/Abdominal-declinado.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-abdominal-declinado.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2212,7 +2212,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Fique em pé segurando um halter em uma das mãos ao lado da coxa. Outra mão na cintura ou cabeça.\n**EXECUÇÃO:** Incline o tronco lateralmente para o lado do peso e retorne usando a força do oblíquo oposto.\n**DICAS:** Mantenha o quadril e as pernas imóveis. O movimento deve ocorrer apenas na coluna vertebral.",
     gifUrl:
-      "https://grandeatleta.com.br/wp-content/uploads/2018/06/Abdominal-lateral-no-solo.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-abdominal-lateral-flexao-lateral-de-tronco.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2223,7 +2223,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Sente-se na bola suíça com os pés firmes no chão. Incline o tronco levemente para trás.\n**EXECUÇÃO:** Realize a rotação do tronco de um lado para o outro de forma controlada.\n**DICAS:** A instabilidade da bola exige maior ativação dos músculos estabilizadores profundos do core.",
     gifUrl:
-      "https://grandeatleta.com.br/wp-content/uploads/2018/06/giro-com-bola-abdominal-medicine-Ball-russian-twist.gif",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-abdominal-alternado-com-bola.gif?raw=true",
   },
   {
     category: "Abdominais",
@@ -2234,7 +2234,7 @@ export const presetExercises: PresetExercise[] = [
     instructions:
       "**PREPARAÇÃO:** Deitado de costas, mãos atrás da cabeça e joelhos a 90°.\n**EXECUÇÃO:** Traga o cotovelo oposto ao joelho que se aproxima, enquanto estende a outra perna. Movimento contínuo de 'pedalada'.\n**DICAS:** Mantenha a lombar pressionada contra o solo. Foque na rotação do tronco para atingir os oblíquos.",
     gifUrl:
-      "https://i0.wp.com/meutreinador.com/wp-content/uploads/2024/04/abdominal-bicicleta.gif?resize=720%2C675&ssl=1",
+      "https://github.com/AlefLaniel/meus-gifs-treino/blob/main/@downloads/abdominais-abdominal-bicicleta.gif?raw=true",
   },
   // GLÚTEOS
   {
